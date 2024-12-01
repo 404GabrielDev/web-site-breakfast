@@ -13,6 +13,13 @@ import iconClosed from "../iconsMenu/close-large-line.webp";
 import facebook from "../socialMedia/facebook-circle-line.png";
 import instagram from "../socialMedia/instagram-line.png";
 import whatsapp from "../socialMedia/whatsapp-line.png";
+import coffe1 from '../coffe/coffe.webp'
+import coffe2 from '../coffe/coffe2.webp'
+import coffe3 from '../coffe/coffe3.webp'
+import backgroundDrink from '../background/backgroundDrinks.webp'
+import backgroundCake from '../background/backgroundCake.webp'
+import backgroundCoffe from '../background/backgroundCoffe.webp'
+
 
 export {
   background,
@@ -30,4 +37,10 @@ export {
   facebook,
   instagram,
   whatsapp,
+  coffe1,
+  coffe2,
+  coffe3,
+  backgroundDrink,
+  backgroundCake,
+  backgroundCoffe,
 };

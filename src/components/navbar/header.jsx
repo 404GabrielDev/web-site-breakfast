@@ -55,6 +55,21 @@ const Header = () => {
             
           </div>
         </div>
+
+        <div className="container-menuDesktop">
+          <div>Best Coffe</div>
+          <div>
+          <ul>
+              <li>Drinks</li>
+              <li>Coffe</li>
+              <li>Specials</li>
+              <li>All Menu</li>
+            </ul>
+          </div>
+          <div>
+            <button>Contact</button>
+          </div>
+        </div>
       </header>
     </>
   );
