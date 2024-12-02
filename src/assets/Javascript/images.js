@@ -19,6 +19,8 @@ import coffe3 from '../coffe/coffe3.webp'
 import backgroundDrink from '../background/backgroundDrinks.webp'
 import backgroundCake from '../background/backgroundCake.webp'
 import backgroundCoffe from '../background/backgroundCoffe.webp'
+import logotipo from '../logotipo/logotipo.webp'
+import backgroundFooter from '../background/backgroundFooter.webp'
 
 
 export {
@@ -43,4 +45,6 @@ export {
   backgroundDrink,
   backgroundCake,
   backgroundCoffe,
+  backgroundFooter,
+  logotipo,
 };

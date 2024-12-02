@@ -9,11 +9,13 @@
 
 .title-background h1 {
     color: rgb(255, 94, 0);
+    font-family: 'Pattaya', sans-serif;
 }
 
 .title-background p {
     font-size: 1.2rem;
     border-bottom: 2px solid #f60;
+    font-family: 'Oswald', sans-serif;
 }
 
 .title-cards {
@@ -21,6 +23,7 @@
     padding: 2rem;
     background-color: #000;
     color: #fff;
+    font-family: 'Pattya', sans-serif;
 }
 
 /*Estilizando os Sliders*/
@@ -30,6 +33,7 @@
     flex-direction: column;
     gap: 2rem;
     background-color: #000;
+    font-family: 'Oswald', sans-serif;
 }
 
 /*Estilizando o Slider 1*/
