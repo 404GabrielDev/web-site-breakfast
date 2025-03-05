@@ -38,6 +38,8 @@ npm run dev
 5- Abra o navegador em http://localhost:3000 para visualizar o site, ou se estiver ultilizando vite: http://localhost:5173
 
 Screenshots:
+![Página Inicial](https://raw.githubusercontent.com/404GabrielDev/web-site-breakfast/main/Screenshot%202025-03-05%20105649.png)
+
 
 
 Licença
