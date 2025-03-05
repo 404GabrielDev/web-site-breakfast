@@ -22,7 +22,8 @@ Elementos Animados: Animações ao rolar a página, criando uma experiência vis
 Como Usar
 
 1- Clone este reepositório:
-git clone https://github.com/seu-usuario/landing-page-padaria.git
+git clone --branch master https://github.com/404GabrielDev/web-site-breakfast.git
+
 
 
 2-Navegue até o diretório do projeto:
@@ -38,7 +39,18 @@ npm run dev
 5- Abra o navegador em http://localhost:3000 para visualizar o site, ou se estiver ultilizando vite: http://localhost:5173
 
 Screenshots:
-![Página Inicial](https://raw.githubusercontent.com/404GabrielDev/web-site-breakfast/main/Screenshot%202025-03-05%20105649.png)
+![Apresentação da Pagina](https://raw.githubusercontent.com/404GabrielDev/web-site-breakfast/main/Screenshot%202025-03-05%20105649.png)
+
+![Um pouco do conteudo main](https://github.com/404GabrielDev/web-site-breakfast/blob/main/Screenshot%202025-03-05%20105742.png?raw=true)
+
+![Landing page no Mobile](https://github.com/404GabrielDev/web-site-breakfast/blob/main/Screenshot%202025-03-05%20105858.png?raw=true)
+
+Licença
+Este projeto está sob a Licença MIT
+
+Contato
+Nome: Gabriel
+Email: joaogabriell.ssm@gmail
 
 
 
