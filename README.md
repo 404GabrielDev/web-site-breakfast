@@ -45,12 +45,12 @@ Screenshots:
 
 ![Landing page no Mobile](https://github.com/404GabrielDev/web-site-breakfast/blob/main/Screenshot%202025-03-05%20105858.png?raw=true)
 
-Licença
-Este projeto está sob a Licença MIT
+### Licença:
+## Este projeto está sob a Licença MIT
 
-Contato
-Nome: Gabriel
-Email: joaogabriell.ssm@gmail
+## Contato
+# Nome: Gabriel
+# Email: joaogabriell.ssm@gmail
 
 
 
